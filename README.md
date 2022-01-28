@@ -1,0 +1,2 @@
+# Azure Health Bot Services Nedir ?
+Azure Health Bot, sağlık hizmetleri kuruluşlarındaki geliştiricilere, uygun ölçekte yapay zeka destekli, uyumlu, konuşmaya dayalı sağlık hizmeti deneyimleri oluşturup dağıtmaları için destek sunar. Klinik terminolojiyi anlamak için yerleşik tıbbi veri tabanını doğal dil yetenekleriyle birleştirir ve kuruluşunuzun klinik kullanım durumlarını desteklemek için kolayca özelleştirilebilir. Hizmet, sektör uyumluluğu gereksinimleriyle uyum sağlar.
